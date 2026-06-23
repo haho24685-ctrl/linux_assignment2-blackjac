@@ -1,0 +1,2 @@
+# linux_assignment2-blackjac
+blackjack_pythoncode
