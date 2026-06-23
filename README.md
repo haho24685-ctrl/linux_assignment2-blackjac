@@ -96,3 +96,5 @@ while game_running:
 ```
 * **설명:** 양쪽의 최종 점수를 비교하여 결과를 내고 게임을 다시 할지 묻는 코드다.
 * **코드:** 무승부가 나서 `yes`를 치면 `continue` 명령어가 작동한다. 이는 프로그램 밑으로 내려가지 않고 최상단의 `while`문 시작점(카드 덱 세팅)으로 다시 올라가 새게임을 시작하게 만드는 코드다.
+<img width="623" height="590" alt="image" src="https://github.com/user-attachments/assets/829536a9-24ab-4a6f-9952-c41625853f36" />
+
